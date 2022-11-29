@@ -17,7 +17,12 @@ My name is Mario Ortega and I'm currently studying Computer Engineering in Zarag
     <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
     <img src="https://i.ytimg.com/vi/yZ6Po_kEkD8/maxresdefault.jpg" title="flex&bison" alt="flex&bison" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  
+      <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+    
+    
  </div>
 
 <hr />
