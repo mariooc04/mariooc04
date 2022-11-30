@@ -13,7 +13,6 @@ My name is Mario Ortega and I'm currently studying Computer Engineering in Zarag
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/1280px_Markdown_with_White_Background.png/640px-1280px_Markdown_with_White_Background.png" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
     <img src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="embeededC" alt="embeededC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
     <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
