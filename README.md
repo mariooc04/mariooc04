@@ -14,11 +14,13 @@ My name is Mario Ortega and I'm currently studying Computer Engineering in Zarag
     <img src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" title="embeededC" alt="embeededC" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
     <img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
-    <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
+    <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
     <img src="https://i.ytimg.com/vi/yZ6Po_kEkD8/maxresdefault.jpg" title="flex&bison" alt="flex&bison" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
