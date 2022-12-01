@@ -1,4 +1,4 @@
-## About me 👩‍💻
+## About me 👨💻
 My name is Mario Ortega and I'm currently studying Computer Engineering in Zaragoza, Spain.
 
 ### Tools and Languages 🛠️
