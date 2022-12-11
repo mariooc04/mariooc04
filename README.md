@@ -33,5 +33,5 @@ My name is Mario Ortega and I'm currently studying Computer Engineering in Zarag
 <h2 align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=mariooc04&theme=radical"(https://git.io/streak-stats) /> </h2>
 
 <div align="center">
-    <img src="https://wakatime.com/share/@011b38e4-c2e3-43ea-a174-2ad840952b7d/d7449d84-ae32-48c5-8e3d-191db918b5bd.svg" height=350>
+    <img src="https://wakatime.com/share/@011b38e4-c2e3-43ea-a174-2ad840952b7d/db22acb3-c000-4fd5-b4b2-5b118c8c05ff.svg" height=350>
 </div>
