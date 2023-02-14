@@ -31,6 +31,3 @@ My name is Mario Ortega and I'm currently studying Computer Engineering in Zarag
 
 ### GitHub statistics 📊
 <h2 align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=mariooc04&theme=radical"(https://git.io/streak-stats) /> </h2>
-
-### Languages used in the last 7 days
-<h2 align="center"><figure><embed src="https://wakatime.com/share/@011b38e4-c2e3-43ea-a174-2ad840952b7d/5e64be6a-847a-4fe7-b3c4-fe538f8ee879.svg"></embed></figure> </h2>
