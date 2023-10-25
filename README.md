@@ -32,7 +32,7 @@ I've worked with:
 <hr />
 
 ### Last 7 days languages
-<figure><embed src="https://wakatime.com/share/@011b38e4-c2e3-43ea-a174-2ad840952b7d/585569f8-2939-4045-8972-f7ae38d0ed02.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@011b38e4-c2e3-43ea-a174-2ad840952b7d/21825727-5279-4dd1-94dc-9b82cf359c8f.png" /></a>
 
 ### GitHub statistics 📊
 <h2 align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=mariooc04&theme=radical"(https://git.io/streak-stats) /> </h2>
